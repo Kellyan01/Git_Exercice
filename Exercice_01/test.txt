@@ -2,7 +2,12 @@ Hello Wolrd !
 
 Modification en cours !
 
+<<<<<<< HEAD
 Modification terminé et validé !
 
 Annulation de Modif !
 
+
+=======
+Annulation de Modif !
+>>>>>>> 5f7edbb (Annulation des Modifications !)
